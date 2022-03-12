@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ikornzaft/react-gifexpertapp/static/css/main.ac7bfe85.css",
-    "main.js": "/ikornzaft/react-gifexpertapp/static/js/main.a3340569.js",
-    "index.html": "/ikornzaft/react-gifexpertapp/index.html",
-    "main.ac7bfe85.css.map": "/ikornzaft/react-gifexpertapp/static/css/main.ac7bfe85.css.map",
-    "main.a3340569.js.map": "/ikornzaft/react-gifexpertapp/static/js/main.a3340569.js.map"
+    "main.css": "/react-gifexpertapp/static/css/main.ac7bfe85.css",
+    "main.js": "/react-gifexpertapp/static/js/main.a3340569.js",
+    "index.html": "/react-gifexpertapp/index.html",
+    "main.ac7bfe85.css.map": "/react-gifexpertapp/static/css/main.ac7bfe85.css.map",
+    "main.a3340569.js.map": "/react-gifexpertapp/static/js/main.a3340569.js.map"
   },
   "entrypoints": [
     "static/css/main.ac7bfe85.css",
