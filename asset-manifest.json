@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-gifexpertapp/static/css/main.ac7bfe85.css",
-    "main.js": "/react-gifexpertapp/static/js/main.a3340569.js",
+    "main.js": "/react-gifexpertapp/static/js/main.5100338c.js",
     "index.html": "/react-gifexpertapp/index.html",
     "main.ac7bfe85.css.map": "/react-gifexpertapp/static/css/main.ac7bfe85.css.map",
-    "main.a3340569.js.map": "/react-gifexpertapp/static/js/main.a3340569.js.map"
+    "main.5100338c.js.map": "/react-gifexpertapp/static/js/main.5100338c.js.map"
   },
   "entrypoints": [
     "static/css/main.ac7bfe85.css",
-    "static/js/main.a3340569.js"
+    "static/js/main.5100338c.js"
   ]
 }
